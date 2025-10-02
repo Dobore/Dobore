@@ -16,9 +16,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)  
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Dobore&show_icons=true&theme=radical)  
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Dobore&layout=compact&theme=radical)
 
 ---
 
